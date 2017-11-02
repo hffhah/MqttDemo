@@ -8,6 +8,7 @@ package org.zihao.utils.mqttdemo;
 public interface Constant {
 	String MQTT_BROKER_URL = "tcp://59.110.156.238:1883";
 	String MQTT_USER = "administrator";
-	String MQTT_PSD = "GKPass>2468";
+	/** manual fill in */
+	String MQTT_PSD = "";
 	String MQTT_TOPIC = "sap/ind/app/andon";
 }
