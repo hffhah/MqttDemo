@@ -6,7 +6,6 @@ import org.eclipse.paho.client.mqttv3.MqttMessage;
 
 /**
  * 
- * @author zihaozhu
  * @date 2017年10月28日
  */
 public class PushCallback implements MqttCallback {

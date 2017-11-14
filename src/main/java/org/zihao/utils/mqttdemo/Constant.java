@@ -2,7 +2,6 @@ package org.zihao.utils.mqttdemo;
 
 /**
  * 
- * @author zihaozhu
  * @date 2017年10月28日
  */
 public interface Constant {
@@ -10,5 +9,4 @@ public interface Constant {
 	String MQTT_USER = "administrator";
 	/** manual fill in */
 	String MQTT_PSD = "";
-	String MQTT_TOPIC = "sap/ind/app/andon";
 }

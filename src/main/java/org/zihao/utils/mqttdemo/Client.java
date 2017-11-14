@@ -2,7 +2,6 @@ package org.zihao.utils.mqttdemo;
 
 /**
  * 
- * @author zihaozhu
  * @date 2017-11-02
  */
 public class Client {
